@@ -18,4 +18,6 @@ Deployed on : WEGL
 Controls
  Move : WASD / Arrow Keys
 Spacebar : Jump
-https://play.unity.com/en/games/1fe4281a-cd3e-4f6a-90e5-4ab3e4ba3d9e/p4
+
+
+Play Game : https://play.unity.com/en/games/1fe4281a-cd3e-4f6a-90e5-4ab3e4ba3d9e/p4
